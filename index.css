@@ -3,7 +3,8 @@ h1 {
 }
 
 body {
-  background-image: url("./1.jpg");
+  background-image: url("./tree-of-knowledge-.jpg");
+  background-position: center;
   text-align:center;
 }
 
@@ -13,4 +14,8 @@ h2, h3 {
 
 p {
   color: orange;
+}
+
+a {
+  color: white;
 }
