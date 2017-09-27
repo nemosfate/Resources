@@ -4,4 +4,13 @@ h1 {
 
 body {
   background-image: url("./1.jpg");
+  text-align:center;
+}
+
+h2, h3 {
+  color: red;
+}
+
+p {
+  color: orange;
 }
